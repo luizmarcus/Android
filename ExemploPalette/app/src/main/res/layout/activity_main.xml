@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="br.com.s2mobile.exemplopalette.MainActivity">
+
+    <ImageView
+        android:id="@+id/img"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="6"
+        android:padding="15dp"
+        android:scaleType="fitCenter"
+        android:src="@android:drawable/ic_media_play"/>
+
+    <LinearLayout
+        android:id="@+id/vibrant"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/vibrantText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vibrantDark"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/vibrantDarkText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/vibrantLight"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/vibrantLightText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/muted"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/mutedText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mutedDark"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/mutedDarkText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/mutedLight"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1">
+        <TextView
+            android:id="@+id/mutedLightText"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center"/>
+    </LinearLayout>
+
+</LinearLayout>
