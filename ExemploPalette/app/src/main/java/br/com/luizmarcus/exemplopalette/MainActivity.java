@@ -1,4 +1,4 @@
-package br.com.s2mobile.exemplopalette;
+package br.com.luizmarcus.exemplopalette;
 
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;

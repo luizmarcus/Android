@@ -1,4 +1,4 @@
-package br.com.s2mobile.exemplopalette;
+package br.com.luizmarcus.exemplopalette;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

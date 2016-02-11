@@ -1,4 +1,4 @@
-package br.com.s2mobile.exemplopalette;
+package br.com.luizmarcus.exemplopalette;
 
 import org.junit.Test;
 
