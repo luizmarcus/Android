@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exemplo Teste Interface</string>
+    <string name="user">Login</string>
+    <string name="pass">Senha</string>
+    <string name="submit">ENTRAR</string>
+    <string name="error">Usuário ou senha inválido</string>
+    <string name="success">Logado!</string>
+</resources>
