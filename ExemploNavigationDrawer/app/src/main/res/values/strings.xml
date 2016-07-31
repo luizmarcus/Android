@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExemploNavigationDrawer</string>
+    <string name="menu1">Item1</string>
+    <string name="menu2">Item2</string>
+    <string name="menu3">Item3</string>
+    <string name="section">Seção</string>
+    <string name="text">Exemplo</string>
+</resources>
