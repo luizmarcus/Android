@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ExemploPermissionDispatcher</string>
+    <string name="request_permission">Pedir Permissão!</string>
+    <string name="permission_granted">Permissão concedida!</string>
+    <string name="permission_yes">Tudo Bem!</string>
+    <string name="permission_no">Não quero</string>
+    <string name="permission_message">Precisaremos utilizar o câmera do seu dispositivo para testar este exemplo. =]</string>
+    <string name="permission_denied">Permissão negada!</string>
+    <string name="permission_never_again">Não pergunte novamente!</string>
+</resources>
